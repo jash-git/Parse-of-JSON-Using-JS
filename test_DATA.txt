@@ -1,0 +1,199 @@
+[{
+	"connetction_enabled": 1,
+	"connetction_mode": 0,
+	"connetction_address": 3187779776,
+	"ab_door_enabled": 0,
+	"ab_door_level": 1,
+	"ab_door_timeout_second": 30,
+	"ab_door_reset_time_second": 60,
+	"apb_enabled": 1,
+	"apb_mode": 1,
+	"apb_level_list": [0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0],
+	"apb_reset_timestamp_list": [0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0],
+	"holiday_of_months_field_flags": [0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0]
+},
+{
+	"enabled": 1,
+	"name": "Unnamed",
+	"pin_code": "FFFFFFFFFFFFFFFF",
+	"security_level": 1,
+	"security_level_zero_access_mode": 0,
+	"lock_mode": 0,
+	"lock_active_time_100_millisecond": 50,
+	"lock_output_module_identifier": 0,
+	"lock_output_module_channel": 1,
+	"suspend_input_module_identifier": 0,
+	"suspend_input_module_channel": 0,
+	"tamper_detection_input_module_identifier": 0,
+	"tamper_detection_input_module_channel": 0,
+	"tamper_detection_output_module_identifier": 0,
+	"tamper_detection_output_module_channel": 0,
+	"sensor_record_enabled": 0,
+	"sensor_input_module_identifier": 0,
+	"sensor_input_module_channel": 1,
+	"button_mode": 0,
+	"button_record_enabled": 0,
+	"button_input_module_identifier": 0,
+	"button_input_module_channel": 0,
+	"black_message_enabled": 0,
+	"black_message_sound_selection": 0,
+	"black_message_time_second": 0,
+	"black_output_module_identifier": 0,
+	"black_output_module_channel": 0,
+	"access_denied_message_enabled": 0,
+	"access_denied_message_sound_selection": 0,
+	"access_denied_message_time_second": 0,
+	"access_denied_output_module_identifier": 0,
+	"access_denied_output_module_channel": 0,
+	"anti_duress_pin_code": "FFFFFFFFFFFFFFFF",
+	"anti_duress_message_enabled": 0,
+	"anti_duress_message_sound_selection": 0,
+	"anti_duress_message_time_second": 0,
+	"anti_duress_output_module_identifier": 0,
+	"anti_duress_output_module_channel": 0,
+	"force_detection_enabled": 1,
+	"force_detection_message_enabled": 0,
+	"force_detection_message_sound_selection": 0,
+	"force_detection_message_time_second": 0,
+	"force_detection_output_module_identifier": 0,
+	"force_detection_output_module_channel": 0,
+	"timeout_detection_enabled": 0,
+	"timeout_detection_time_second": 0,
+	"timeout_detection_message_enabled": 0,
+	"timeout_detection_message_sound_selection": 0,
+	"timeout_detection_message_time_second": 0,
+	"timeout_detection_output_module_identifier": 0,
+	"timeout_detection_output_module_channel": 0,
+	"access_error_counter": 0,
+	"access_by_vip_enabled": 0,
+	"access_by_authorized_enabled": 0,
+	"access_by_vip_card_amount": 0,
+	"access_by_user_card_amount": 0,
+	"in_time_enter_access_configuration": {
+		"allowed_type_amount": 1,
+		"by_card_enabled": 1,
+		"by_fingerprint_enabled": 1,
+		"by_user_pin_code_enabled": 0,
+		"by_door_pin_code_enabled": 0
+	},
+	"in_time_exit_access_configuration": {
+		"allowed_type_amount": 1,
+		"by_card_enabled": 1,
+		"by_fingerprint_enabled": 1,
+		"by_user_pin_code_enabled": 0,
+		"by_door_pin_code_enabled": 0
+	},
+	"out_time_enter_access_configuration": {
+		"allowed_type_amount": 1,
+		"by_card_enabled": 1,
+		"by_fingerprint_enabled": 1,
+		"by_user_pin_code_enabled": 0,
+		"by_door_pin_code_enabled": 0
+	},
+	"out_time_exit_access_configuration": {
+		"allowed_type_amount": 1,
+		"by_card_enabled": 1,
+		"by_fingerprint_enabled": 1,
+		"by_user_pin_code_enabled": 0,
+		"by_door_pin_code_enabled": 0
+	},
+	"access_enabled": 1,
+	"access_mode": 2,
+	"access_week_plan": 62,
+	"access_time_range_list": [{
+		"start_timestamp": 48600,
+		"endle_timestamp": 48900
+	},
+	{
+		"start_timestamp": 49200,
+		"endle_timestamp": 49500
+	},
+	{
+		"start_timestamp": 49800,
+		"endle_timestamp": 50100
+	},
+	{
+		"start_timestamp": 50400,
+		"endle_timestamp": 50880
+	},
+	{
+		"start_timestamp": 51000,
+		"endle_timestamp": 51300
+	},
+	{
+		"start_timestamp": 51600,
+		"endle_timestamp": 51900
+	},
+	{
+		"start_timestamp": 52200,
+		"endle_timestamp": 52500
+	},
+	{
+		"start_timestamp": 52800,
+		"endle_timestamp": 53100
+	}],
+	"auto_open_enabled": 0,
+	"auto_open_mode": 2,
+	"auto_open_week_plan": 255,
+	"auto_open_time_range_list": [{
+		"start_timestamp": 0,
+		"endle_timestamp": 86340
+	},
+	{
+		"start_timestamp": 0,
+		"endle_timestamp": 0
+	},
+	{
+		"start_timestamp": 0,
+		"endle_timestamp": 0
+	},
+	{
+		"start_timestamp": 0,
+		"endle_timestamp": 0
+	},
+	{
+		"start_timestamp": 0,
+		"endle_timestamp": 0
+	},
+	{
+		"start_timestamp": 0,
+		"endle_timestamp": 0
+	},
+	{
+		"start_timestamp": 0,
+		"endle_timestamp": 0
+	},
+	{
+		"start_timestamp": 0,
+		"endle_timestamp": 0
+	}]
+}]
